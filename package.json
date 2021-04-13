@@ -1,0 +1,17 @@
+{
+  "name": "8-comingsoon",
+  "version": "1.0.0",
+  "main": ".js",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mindaugas",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
