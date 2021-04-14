@@ -1,17 +1,25 @@
 {
-  "name": "8-comingsoon",
+  "name": "8-coming-soon",
   "version": "1.0.0",
-  "main": ".js",
+  "description": "![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square) ![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square) ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg) ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)",
+  "main": "index.js",
   "scripts": {
     "dev": "live-server --port=3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Mindaugas",
-  "license": "ISC",
+  "author": "Rimantas Belovas",
+  "license": "MIT",
   "devDependencies": {
     "live-server": "^1.2.1"
   },
   "dependencies": {},
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minvaitekunas/8-comingsoon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minvaitekunas/8-comingsoon/issues"
+  },
+  "homepage": "https://github.com/minvaitekunas/8-comingsoon#readme"
 }
